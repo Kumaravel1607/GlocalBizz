@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "1036289821876",
+    "project_id": "glocal-bizz",
+    "storage_bucket": "glocal-bizz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036289821876:android:895d3bc5a04d5469e75be1",
+        "android_client_info": {
+          "package_name": "com.glocalbizz.gb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036289821876-lkk5i9aecb7ta6u3q5snjjcfts7ap5gs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.glocalbizz.gb",
+            "certificate_hash": "46aca56867008ea2dea3360d29d27bc63a80fa00"
+          }
+        },
+        {
+          "client_id": "1036289821876-t1o2kl40mq5a9lq1sgitr1omjfshfd3r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.glocalbizz.gb",
+            "certificate_hash": "a7ee70ed3ceff5448cb67c4aecfcc25ea6313418"
+          }
+        },
+        {
+          "client_id": "1036289821876-v9ush6udmtbkkb201ias945hedhlqllh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.glocalbizz.gb",
+            "certificate_hash": "e2d7279a4ae9697781cfc40710832036a002d693"
+          }
+        },
+        {
+          "client_id": "1036289821876-srpumj6fjjueai6veovgbekdlne3fnme.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm5Hra6dh43pKs5XI0sHXI_2StMrkTvGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036289821876-srpumj6fjjueai6veovgbekdlne3fnme.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
